@@ -1,3 +1,3 @@
 # demo
 This is a Demo <br>
-By Kamran Khan
+Author - Kamran Khan
